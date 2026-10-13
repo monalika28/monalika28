@@ -56,16 +56,20 @@
 </div>
 
 ---
+### 🐍 Contribution Activity Snake
+### 🐍 Contribution Activity Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monalika28/monalika28/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monalika28/monalika28/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/monalika28/monalika28/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=100&section=footer"/>
 </div>
-```[cite: 2, 7]
-
-4. Top-right me green button **"Commit changes..."** par click karo, aur popup me fir se **"Commit changes"** click karke save kar do[cite: 4, 6].
-
----
-
 ### Step 2: Output Check Karo
 1. Save hone ke baad wapis screen par right side me **"Visit profile"** button par click karo[cite: 10].
 2. Aapki profile par waving hand animation, dynamic typing line, colorful skill icons aur GitHub stats cards render hone lagenge[cite: 7].
