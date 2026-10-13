@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**monalika28/monalika28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Animated Wave & Introduction -->
+  <h1>Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Monalika Machal</h1>
 
-Here are some ideas to get you started:
+  <!-- Animated Typing SVG Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Computer+Science+Engineer+(2026);Full-Stack+%26+Backend+Developer;Building+Microservices+%26+AI+Agents;Exploring+LangGraph+%26+Distributed+Systems" alt="Typing SVG" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br><br>
+
+  <!-- Social Badges -->
+  <a href="https://linkedin.com/in/monalika-machal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:monalikamona28@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/monalika28" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+</div>
+
+---
+
+### 💻 Technologies & Tools
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c" /><br><br>
+  <!-- Frontend & Backend -->
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,redis" /><br><br>
+  <!-- DevOps, Cloud & Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode" />
+</p>
+
+---
+
+### 🔥 GitHub Stats & Activity
+
+<div align="center">
+
+  <!-- Overall GitHub Stats -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=monalika28&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  
+  <!-- Most Used Languages -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monalika28&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+
+  <br><br>
+
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monalika28&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=100&section=footer"/>
+</div>
+```[cite: 2, 7]
+
+4. Top-right me green button **"Commit changes..."** par click karo, aur popup me fir se **"Commit changes"** click karke save kar do[cite: 4, 6].
+
+---
+
+### Step 2: Output Check Karo
+1. Save hone ke baad wapis screen par right side me **"Visit profile"** button par click karo[cite: 10].
+2. Aapki profile par waving hand animation, dynamic typing line, colorful skill icons aur GitHub stats cards render hone lagenge[cite: 7].
+
+Jaise hi ye dikhne lage, batao fir snake eating animation wala action add karenge!
