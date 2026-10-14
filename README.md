@@ -56,7 +56,7 @@
 </div>
 
 ---
-### 🐍 Contribution Activity Snake
+
 ### 🐍 Contribution Activity Snake
 
 <picture>
@@ -70,8 +70,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=100&section=footer"/>
 </div>
-### Step 2: Output Check Karo
-1. Save hone ke baad wapis screen par right side me **"Visit profile"** button par click karo[cite: 10].
-2. Aapki profile par waving hand animation, dynamic typing line, colorful skill icons aur GitHub stats cards render hone lagenge[cite: 7].
-
-Jaise hi ye dikhne lage, batao fir snake eating animation wala action add karenge!
